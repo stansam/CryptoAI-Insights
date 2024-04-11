@@ -1,302 +1,268 @@
 [
     {
         "title": "Cute Kittens Playing",
-        "description": "Watch these adorable kittens playing with toys and each other!",
+        "thumbnail": "./../../public/default-video.png",
         "views": 10345678,
-        "likes": 98765,
-        "dislikes": 1234,
+        "CGRating": 4,
+        "channel": {
+            "name": "KittyLovers",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 200
+        },
         "duration": "0:10:21",
-        "channel": "KittyLovers",
-        "tags": [
-            "cats",
-            "kittens",
-            "pets"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Cooking Tutorial: Perfect Pasta",
-        "description": "Learn how to cook the perfect pasta with this easy-to-follow tutorial.",
-        "views": 5432109,
-        "likes": 67890,
-        "dislikes": 2345,
-        "duration": "0:15:45",
-        "channel": "ChefMasterclass",
-        "tags": [
-            "cooking",
-            "pasta",
-            "recipes"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Gaming Live Stream: Fortnite",
-        "description": "Join us for an epic gaming session of Fortnite! Don't miss the action.",
-        "views": 20123456,
-        "likes": 345678,
-        "dislikes": 12345,
-        "duration": "4:56:32",
-        "channel": "GameZone",
-        "tags": [
-            "gaming",
-            "fortnite",
-            "livestream"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Travel Vlog: Exploring Tokyo",
-        "description": "Join me on an adventure through the vibrant streets of Tokyo, Japan.",
-        "views": 8765432,
-        "likes": 123456,
-        "dislikes": 5678,
-        "duration": "0:25:18",
-        "channel": "TravelDiaries",
-        "tags": [
-            "travel",
-            "tokyo",
-            "japan"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Fitness Workout: Full Body Routine",
-        "description": "Get fit with this intense full-body workout routine designed for all fitness levels.",
-        "views": 15678901,
-        "likes": 234567,
-        "dislikes": 6789,
-        "duration": "0:30:00",
-        "channel": "FitLife",
-        "tags": [
-            "fitness",
-            "workout",
-            "exercise"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "DIY Home Decor: Upcycling Ideas",
-        "description": "Discover creative ways to upcycle old items into beautiful home decor pieces.",
-        "views": 4321098,
-        "likes": 56789,
-        "dislikes": 1234,
-        "duration": "0:12:45",
-        "channel": "CraftyCorner",
-        "tags": [
-            "DIY",
-            "home decor",
-            "upcycling"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Tech Review: Latest Smartphone Unboxing",
-        "description": "Unbox and review the features of the latest smartphone in the market.",
-        "views": 7543210,
-        "likes": 98765,
-        "dislikes": 5432,
-        "duration": "0:08:30",
-        "channel": "TechGeek",
-        "tags": [
-            "technology",
-            "smartphone",
-            "review"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Funny Cat Compilation",
-        "description": "Laugh out loud with this hilarious compilation of cats doing funny things.",
-        "views": 21098765,
-        "likes": 345678,
-        "dislikes": 8765,
-        "duration": "0:20:00",
-        "channel": "FunnyPets",
-        "tags": [
-            "cats",
-            "funny",
-            "compilation"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Art Tutorial: Watercolor Painting for Beginners",
-        "description": "Learn the basics of watercolor painting with step-by-step instructions for beginners.",
-        "views": 7890123,
-        "likes": 123456,
-        "dislikes": 5432,
-        "duration": "0:18:15",
-        "channel": "ArtisticExpressions",
-        "tags": [
-            "art",
-            "watercolor",
-            "painting"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Science Experiment: DIY Volcano Eruption",
-        "description": "Watch as we create a volcanic eruption using simple household ingredients.",
-        "views": 1543210,
-        "likes": 23456,
-        "dislikes": 1098,
-        "duration": "0:05:50",
-        "channel": "ScienceExplorers",
-        "tags": [
-            "science",
-            "experiment",
-            "volcano"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Motivational Speech: Overcoming Adversity",
-        "description": "Get inspired with this powerful motivational speech about overcoming challenges and adversity.",
-        "views": 876543,
-        "likes": 9876,
-        "dislikes": 123,
-        "duration": "0:14:30",
-        "channel": "InspireMe",
-        "tags": [
-            "motivation",
-            "inspiration",
-            "speech"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Fashion Lookbook: Spring Collection",
-        "description": "Explore the latest trends in fashion with our spring collection lookbook.",
-        "views": 654321,
-        "likes": 8765,
-        "dislikes": 210,
-        "duration": "0:07:45",
-        "channel": "StyleTrendz",
-        "tags": [
-            "fashion",
-            "lookbook",
-            "spring"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Music Playlist: Chill Vibes",
-        "description": "Relax and unwind with our curated playlist of chill music vibes.",
-        "views": 1234567,
-        "likes": 54321,
-        "dislikes": 876,
-        "duration": "1:00:00",
-        "channel": "ChillOutMusic",
-        "tags": [
-            "music",
-            "playlist",
-            "chill"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Educational Documentary: History of Ancient Civilizations",
-        "description": "Journey through the history of ancient civilizations with this educational documentary.",
-        "views": 2345678,
-        "likes": 76543,
-        "dislikes": 432,
-        "duration": "1:30:00",
-        "channel": "HistoryChannel",
-        "tags": [
-            "history",
-            "documentary",
-            "civilizations"
-        ],
-        "thumbnail": "./../../public/default-video.png"
-    },
-    {
-        "title": "Productivity Tips: Time Management Hacks",
-        "description": "Boost your productivity with these effective time management hacks and tips.",
-        "views": 3456789,
-        "likes": 65432,
-        "dislikes": 321,
-        "duration": "0:20:30",
-        "channel": "ProductiveLife",
-        "tags": [
-            "productivity",
-            "tips",
-            "time management"
-        ],
-        "thumbnail": "./../../public/default-video.png"
+        "description": "Watch these adorable kittens playing with toys and each other!",
+        "dateUploaded": "19 hours ago"
     },
     {
         "title": "Funny Dog Compilation",
-        "description": "Have a laugh with this hilarious compilation of dogs doing funny antics.",
-        "views": 5678901,
-        "likes": 98765,
-        "dislikes": 876,
-        "duration": "0:22:15",
-        "channel": "DogLovers",
-        "tags": [
-            "dogs",
-            "funny",
-            "compilation"
-        ],
-        "thumbnail": "./../../public/default-video.png"
+        "thumbnail": "./../../public/default-video.png",
+        "views": 8765432,
+        "CGRating": 4.5,
+        "channel": {
+            "name": "DogLovers",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 300
+        },
+        "duration": "0:15:00",
+        "description": "Laugh out loud with this hilarious compilation of dogs doing funny antics.",
+        "dateUploaded": "1 day ago"
+    },
+    {
+        "title": "Cooking Tutorial: Perfect Pasta",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 5432109,
+        "CGRating": 4.2,
+        "channel": {
+            "name": "ChefMasterclass",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 150
+        },
+        "duration": "0:15:45",
+        "description": "Learn how to cook the perfect pasta with this easy-to-follow tutorial.",
+        "dateUploaded": "2 days ago"
+    },
+    {
+        "title": "Gaming Live Stream: Fortnite",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 20123456,
+        "CGRating": 4.8,
+        "channel": {
+            "name": "GameZone",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 500
+        },
+        "duration": "4:56:32",
+        "description": "Join us for an epic gaming session of Fortnite! Don't miss the action.",
+        "dateUploaded": "3 days ago"
+    },
+    {
+        "title": "Travel Vlog: Exploring Tokyo",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 15678901,
+        "CGRating": 4.7,
+        "channel": {
+            "name": "TravelDiaries",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 1000
+        },
+        "duration": "0:25:18",
+        "description": "Join me on an adventure through the vibrant streets of Tokyo, Japan.",
+        "dateUploaded": "4 days ago"
+    },
+    {
+        "title": "Fitness Workout: Full Body Routine",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 4321098,
+        "CGRating": 4.3,
+        "channel": {
+            "name": "FitLife",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 250
+        },
+        "duration": "0:30:00",
+        "description": "Get fit with this intense full-body workout routine designed for all fitness levels.",
+        "dateUploaded": "5 days ago"
+    },
+    {
+        "title": "DIY Home Decor: Upcycling Ideas",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 7543210,
+        "CGRating": 4.6,
+        "channel": {
+            "name": "CraftyCorner",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 400
+        },
+        "duration": "0:12:45",
+        "description": "Discover creative ways to upcycle old items into beautiful home decor pieces.",
+        "dateUploaded": "6 days ago"
+    },
+    {
+        "title": "Tech Review: Latest Smartphone Unboxing",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 21098765,
+        "CGRating": 4.9,
+        "channel": {
+            "name": "TechGeek",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 600
+        },
+        "duration": "0:08:30",
+        "description": "Unbox and review the features of the latest smartphone in the market.",
+        "dateUploaded": "1 week ago"
+    },
+    {
+        "title": "Art Tutorial: Watercolor Painting for Beginners",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 7890123,
+        "CGRating": 4.4,
+        "channel": {
+            "name": "ArtisticExpressions",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 800
+        },
+        "duration": "0:18:15",
+        "description": "Learn the basics of watercolor painting with step-by-step instructions for beginners.",
+        "dateUploaded": "1 week ago"
+    },
+    {
+        "title": "Science Experiment: DIY Volcano Eruption",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 1543210,
+        "CGRating": 3.8,
+        "channel": {
+            "name": "ScienceExplorers",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 50
+        },
+        "duration": "0:05:50",
+        "description": "Watch as we create a volcanic eruption using simple household ingredients.",
+        "dateUploaded": "1 week ago"
+    },
+    {
+        "title": "Motivational Speech: Overcoming Adversity",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 876543,
+        "CGRating": 4.1,
+        "channel": {
+            "name": "InspireMe",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 120
+        },
+        "duration": "0:14:30",
+        "description": "Get inspired with this powerful motivational speech about overcoming challenges and adversity.",
+        "dateUploaded": "2 weeks ago"
+    },
+    {
+        "title": "Fashion Lookbook: Spring Collection",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 654321,
+        "CGRating": 3.9,
+        "channel": {
+            "name": "StyleTrendz",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 90
+        },
+        "duration": "0:07:45",
+        "description": "Explore the latest trends in fashion with our spring collection lookbook.",
+        "dateUploaded": "2 weeks ago"
+    },
+    {
+        "title": "Music Playlist: Chill Vibes",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 1234567,
+        "CGRating": 4.9,
+        "channel": {
+            "name": "ChillOutMusic",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 1500
+        },
+        "duration": "1:00:00",
+        "description": "Relax and unwind with our curated playlist of chill music vibes.",
+        "dateUploaded": "3 weeks ago"
+    },
+    {
+        "title": "Educational Documentary: History of Ancient Civilizations",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 2345678,
+        "CGRating": 5,
+        "channel": {
+            "name": "HistoryChannel",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 2000
+        },
+        "duration": "1:30:00",
+        "description": "Journey through the history of ancient civilizations with this educational documentary.",
+        "dateUploaded": "4 weeks ago"
+    },
+    {
+        "title": "Productivity Tips: Time Management Hacks",
+        "thumbnail": "./../../public/default-video.png",
+        "views": 3456789,
+        "CGRating": 5,
+        "channel": {
+            "name": "ProductiveLife",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 2200
+        },
+        "duration": "0:20:30",
+        "description": "Boost your productivity with these effective time management hacks and tips.",
+        "dateUploaded": "1 month ago"
     },
     {
         "title": "Photography Tutorial: Landscape Photography Techniques",
-        "description": "Master the art of landscape photography with these essential techniques and tips.",
+        "thumbnail": "./../../public/default-video.png",
         "views": 4567890,
-        "likes": 76543,
-        "dislikes": 543,
+        "CGRating": 4.7,
+        "channel": {
+            "name": "PhotoGenius",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 1800
+        },
         "duration": "0:17:45",
-        "channel": "PhotoGenius",
-        "tags": [
-            "photography",
-            "tutorial",
-            "landscape"
-        ],
-        "thumbnail": "./../../public/default-video.png"
+        "description": "Master the art of landscape photography with these essential techniques and tips.",
+        "dateUploaded": "1 month ago"
     },
     {
         "title": "Cooking Challenge: 5-Minute Meals",
-        "description": "Take on the challenge of creating delicious meals in just 5 minutes with these quick recipes.",
+        "thumbnail": "./../../public/default-video.png",
         "views": 345678,
-        "likes": 5432,
-        "dislikes": 210,
+        "CGRating": 3.5,
+        "channel": {
+            "name": "QuickBites",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 70
+        },
         "duration": "0:05:00",
-        "channel": "QuickBites",
-        "tags": [
-            "cooking",
-            "challenge",
-            "quick meals"
-        ],
-        "thumbnail": "./../../public/default-video.png"
+        "description": "Take on the challenge of creating delicious meals in just 5 minutes with these quick recipes.",
+        "dateUploaded": "1 month ago"
     },
     {
         "title": "Art Exhibition: Contemporary Artists Showcase",
-        "description": "Explore the works of contemporary artists in this captivating art exhibition showcase.",
+        "thumbnail": "./../../public/default-video.png",
         "views": 234567,
-        "likes": 4321,
-        "dislikes": 98,
+        "CGRating": 4,
+        "channel": {
+            "name": "ArtWorld",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 100
+        },
         "duration": "1:15:00",
-        "channel": "ArtWorld",
-        "tags": [
-            "art",
-            "exhibition",
-            "contemporary artists"
-        ],
-        "thumbnail": "./../../public/default-video.png"
+        "description": "Explore the works of contemporary artists in this captivating art exhibition showcase.",
+        "dateUploaded": "2 months ago"
     },
     {
         "title": "Documentary: Wildlife of the Amazon Rainforest",
-        "description": "Discover the incredible diversity of wildlife in the Amazon rainforest through this captivating documentary.",
+        "thumbnail": "./../../public/default-video.png",
         "views": 987654,
-        "likes": 8765,
-        "dislikes": 210,
+        "CGRating": 4.9,
+        "channel": {
+            "name": "NatureExplorers",
+            "logo": "./../../public/default-channel-logo.png",
+            "followers": 3000
+        },
         "duration": "1:45:00",
-        "channel": "NatureExplorers",
-        "tags": [
-            "documentary",
-            "wildlife",
-            "Amazon rainforest"
-        ],
-        "thumbnail": "./../../public/default-video.png"
+        "description": "Discover the incredible diversity of wildlife in the Amazon rainforest through this captivating documentary.",
+        "dateUploaded": "2 months ago"
     }
 ]
