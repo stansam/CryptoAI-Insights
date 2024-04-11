@@ -2,8 +2,8 @@ import React from 'react'
 
 const Header = () => {
     return (
-        <div>
-            <h1 className='underline'>CryptoGopher</h1>
+        <div className='text-center'>
+            <h1 className='font-bold text-3xl'>CryptoGopher</h1>
             <span>Practical Summaries of Top Crypto Influenders</span>
         </div>
     )
