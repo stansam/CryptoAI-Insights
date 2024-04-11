@@ -1,0 +1,102 @@
+[
+    {
+        "token_id": "1",
+        "image_url": "./../../public/default-token.png",
+        "currency": 100
+    },
+    {
+        "token_id": "2",
+        "image_url": "./../../public/default-token.png",
+        "currency": 200
+    },
+    {
+        "token_id": "3",
+        "image_url": "./../../public/default-token.png",
+        "currency": 300
+    },
+    {
+        "token_id": "4",
+        "image_url": "./../../public/default-token.png",
+        "currency": 400
+    },
+    {
+        "token_id": "5",
+        "image_url": "./../../public/default-token.png",
+        "currency": 500
+    },
+    {
+        "token_id": "6",
+        "image_url": "./../../public/default-token.png",
+        "currency": 600
+    },
+    {
+        "token_id": "7",
+        "image_url": "./../../public/default-token.png",
+        "currency": 700
+    },
+    {
+        "token_id": "8",
+        "image_url": "./../../public/default-token.png",
+        "currency": 800
+    },
+    {
+        "token_id": "9",
+        "image_url": "./../../public/default-token.png",
+        "currency": 900
+    },
+    {
+        "token_id": "10",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1000
+    },
+    {
+        "token_id": "11",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1100
+    },
+    {
+        "token_id": "12",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1200
+    },
+    {
+        "token_id": "13",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1300
+    },
+    {
+        "token_id": "14",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1400
+    },
+    {
+        "token_id": "15",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1500
+    },
+    {
+        "token_id": "16",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1600
+    },
+    {
+        "token_id": "17",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1700
+    },
+    {
+        "token_id": "18",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1800
+    },
+    {
+        "token_id": "19",
+        "image_url": "./../../public/default-token.png",
+        "currency": 1900
+    },
+    {
+        "token_id": "20",
+        "image_url": "./../../public/default-token.png",
+        "currency": 2000
+    }
+]
